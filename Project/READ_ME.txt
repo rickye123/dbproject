@@ -9,4 +9,6 @@ jdbc:mysql://<hostname>:<port>/<dbname>?useSSL=false<user>
 The overall connection string may be something like:
 jdbc:mysql://localhost:3306/testdb?useSSL=falserootpassword
 
+The project to be imported sits within the smartstreamdb folder
+
 Note: the program was written in the Eclipse IDE
